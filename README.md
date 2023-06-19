@@ -19,4 +19,4 @@ Next, open the `Task.pdsprj` file in Proteus. Double-click on `Arduino Uno` and 
 Boom! Everything is set up properly. Now, just click the `Run` button located in the bottom left corner and simulate the experiment.
 
 # Note
-After running the simulation, a `Virtual Monitor` will pop up. Click on it and type an integer. There is no need to press the `Enter` button on the keyboard after typing the value. Remember, if the `Echo Typed Characters` option is turned off, what you type on the Virtual Monitor will not be shown on the display. So, don't panic, just type an integer.
+After running the simulation, a `Virtual Terminal` will pop up. Click on it and type an integer. There is no need to press the `Enter` button on the keyboard after typing the value. Remember, if the `Echo Typed Characters` option is turned off, what you type on the Virtual Terminal will not be shown on the display. So, don't panic, just type an integer.
